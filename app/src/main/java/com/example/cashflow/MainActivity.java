@@ -7,6 +7,8 @@ import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
 
+import com.example.cashflow.Fragments.HomeFragment;
+import com.example.cashflow.Fragments.ProfileFragment;
 import com.example.cashflow.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
